@@ -13,8 +13,8 @@ import Topbar from "@/components/shared/Topbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Threads | Chitraksh Maheshwari",
-  description: "A Next.js 13 Meta Threads application by chitraksh maheshwari",
+  title: "Dhaage | Chitraksh Maheshwari",
+  description: "Dhaage by chitraksh maheshwari",
 };
 
 export default function RootLayout({
